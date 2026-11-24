@@ -1,0 +1,13 @@
+# Dataset files
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Model checkpoints
+checkpoints/
+
+# Generated results
+results/
